@@ -21,9 +21,9 @@ OWNER_ID = list(
 )
     
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/FriendshipWorldGroup")
+    "SUPPORT_CHANNEL", "https://t.me/Deep_shayari")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/Sad_shayari_lovers")
+    "SUPPORT_GROUP", "https://t.me/friends_msti_group")
 
 DURATION_LIMIT_MIN = int(
     getenv("DURATION_LIMIT", "9091751417000")
@@ -96,11 +96,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/59f6eee7bcc5f34b4102b.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/1e3a813fdfd3ed3544dcd.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph//file/3d677a2240de49ea9a424.jpg",
+    "https://te.legra.ph/file/1e3a813fdfd3ed3544dcd.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
