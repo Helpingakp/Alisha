@@ -61,7 +61,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/FriendshipWorldGroup"
+                text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/friends_msti_group"
             )
         ],
     ]
@@ -118,7 +118,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/FriendshipWorldGroup"
+                text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/friends_msti_group"
             )
         ],
     ]
